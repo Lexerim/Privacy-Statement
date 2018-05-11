@@ -56,4 +56,5 @@ In het kader van systeembeveiliging, worden een zwarte en een witte lijst bijgeh
 Lexerim maakt backups van de servers. De administratie van Lexerim wordt tevens op Dropbox bewaard.
 
 Lexerim is gevestigd aan Frankenlaan 9 6135HN Sittard.
+
 Laatst bijgewerkt op: 10 mei 2018
