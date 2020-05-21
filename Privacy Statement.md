@@ -26,7 +26,7 @@ Lexerim verwerkt uw persoonsgegevens voor de volgende doelen:
 - Lexerim verwerkt ook persoonsgegevens als wij hier wettelijk toe verplicht zijn
 
 ## Geautomatiseerde besluitvorming
-Lexerim neemt geen besluit op basis van geautomatiseerde verwerkingen over zaken die aanzienlijke gevolgen kunnen hebben voor personen. Het gaat hier om besluiten die worden genomen door computerprogramma's of -systemen, zonder dat daar een mens (bijvoorbeeld een medewerker van Lexerim) tussen zit. Wel gebruikt Lexerim geautomatiseerde systemen om aanvallen op onze dienstverlening tegen te gaan.
+Lexerim neemt geen besluit op basis van geautomatiseerde verwerkingen over zaken die aanzienlijke gevolgen kunnen hebben voor personen. Het gaat hier om besluiten die worden genomen door computerprogramma's of -systemen, zonder dat daar een mens (bijvoorbeeld een medewerker van Lexerim) tussen zit. Wel gebruikt Lexerim geautomatiseerde systemen om aanvallen op haar dienstverlening tegen te gaan.
 
 ## Hoe lang we persoonsgegevens bewaren
 Uw Naam, Adres, Telefoonnummer en E-Mailadres worden bewaard zolang de dienstverlening loopt.
@@ -36,7 +36,7 @@ IP-adressen worden zolang de dienstverlening loopt bewaard.
 Als een wettelijke bewaartermijn van toepassing is, dan geldt deze.
 
 ## Delen van persoonsgegevens met derden
-Lexerim verstrekt geen persoonsgegevens aan derden, anders dan om te voldoen aan een wettelijke verplichting.
+Lexerim verstrekt geen persoonsgegevens aan derden, anders dan om te voldoen aan een wettelijke verplichting. 
 
 ## Cookies, of vergelijkbare technieken, die wij gebruiken
 Lexerim gebruikt geen cookies of vergelijkbare technieken.
@@ -51,10 +51,10 @@ Lexerim wijst erop dat u de mogelijkheid heeft om een klacht in te dienen bij de
 ## Beveiliging van uw persoonsgegevens
 Lexerim neemt de bescherming van uw gegevens serieus en neemt passende maatregelen om misbruik, verlies, onbevoegde toegang, ongewenste openbaarmaking en ongeoorloofde wijziging tegen te gaan. 
 
-In het kader van systeembeveiliging, worden een zwarte en een witte lijst bijgehouden door onze firewall. Hiermee worden aanvallen op onze server(s) tegengegaan.
+In het kader van systeembeveiliging, worden een zwarte en een witte lijst bijgehouden door onze firewall. Hiermee worden aanvallen op onze server(s) tegengegaan. Lexerim host haar website bij TransIP, de privacy policy van TransIP is in voorkomende gevallen van toepassing en inzichtelijk via de volgende link: [https://autoriteitpersoonsgegevens.nl/nl/contact-met-de-autoriteit-persoonsgegevens/tip-ons]
 
 Lexerim maakt backups van de servers. De administratie van Lexerim wordt tevens op Dropbox bewaard.
 
 Lexerim is gevestigd aan Frankenlaan 9 6135HN Sittard.
 
-Laatst bijgewerkt op: 10 mei 2018
+Laatst bijgewerkt op: 21 mei 2020
