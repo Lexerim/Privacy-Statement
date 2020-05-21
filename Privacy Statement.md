@@ -51,7 +51,7 @@ Lexerim wijst erop dat u de mogelijkheid heeft om een klacht in te dienen bij de
 ## Beveiliging van uw persoonsgegevens
 Lexerim neemt de bescherming van uw gegevens serieus en neemt passende maatregelen om misbruik, verlies, onbevoegde toegang, ongewenste openbaarmaking en ongeoorloofde wijziging tegen te gaan. 
 
-In het kader van systeembeveiliging, worden een zwarte en een witte lijst bijgehouden door onze firewall. Hiermee worden aanvallen op onze server(s) tegengegaan. Lexerim host haar website bij TransIP, de privacy policy van TransIP is in voorkomende gevallen van toepassing en inzichtelijk via de volgende link: [https://autoriteitpersoonsgegevens.nl/nl/contact-met-de-autoriteit-persoonsgegevens/tip-ons]
+In het kader van systeembeveiliging, worden een zwarte en een witte lijst bijgehouden door onze firewall. Hiermee worden aanvallen op onze server(s) tegengegaan. Lexerim host haar website bij TransIP, de privacy policy van TransIP is in voorkomende gevallen van toepassing en inzichtelijk via de volgende link: [https://www.transip.nl/legal-and-security/privacy-policy/]https://www.transip.nl/legal-and-security/privacy-policy/)
 
 Lexerim maakt backups van de servers. De administratie van Lexerim wordt tevens op Dropbox bewaard.
 
