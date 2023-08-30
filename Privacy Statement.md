@@ -51,10 +51,10 @@ Lexerim wijst erop dat u de mogelijkheid heeft om een klacht in te dienen bij de
 ## Beveiliging van uw persoonsgegevens
 Lexerim neemt de bescherming van uw gegevens serieus en neemt passende maatregelen om misbruik, verlies, onbevoegde toegang, ongewenste openbaarmaking en ongeoorloofde wijziging tegen te gaan. 
 
-In het kader van systeembeveiliging, worden een zwarte en een witte lijst bijgehouden door onze firewall. Hiermee worden aanvallen op onze server(s) tegengegaan. Lexerim host haar website bij TransIP, de privacy policy van TransIP is in voorkomende gevallen van toepassing en inzichtelijk via de volgende link: [https://www.transip.nl/legal-and-security/privacy-policy/]https://www.transip.nl/legal-and-security/privacy-policy/)
+In het kader van systeembeveiliging, worden een zwarte en een witte lijst bijgehouden door onze firewall. Hiermee worden aanvallen op onze server(s) tegengegaan. Lexerim host haar website bij Mijn.Host, de privacy policy van Mijn.Host is in voorkomende gevallen van toepassing en inzichtelijk via de volgende link: [https://mijn.host/privacy-policy/](https://mijn.host/privacy-policy/)]
 
 Lexerim maakt backups van de servers. De administratie van Lexerim wordt tevens op Dropbox bewaard.
 
-Lexerim is gevestigd aan Frankenlaan 9 6135HN Sittard.
+Lexerim is gevestigd aan Cavaleriestraat 9 6135JM Sittard.
 
-Laatst bijgewerkt op: 21 mei 2020
+Laatst bijgewerkt op: 30 augustus 2023
